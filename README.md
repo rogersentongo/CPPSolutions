@@ -1,2 +1,2 @@
 # CPPSolutions
-My solutions to C++ problems from Deitel, How to Program 9th edition
+My select solutions to C++ problems from Deitel, How to Program 9th edition
